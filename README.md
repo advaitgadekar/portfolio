@@ -63,9 +63,9 @@
 ---
 
 ## 📫 Contact
-- **Email:** your_email@example.com  
-- **GitHub:** https://github.com/yourusername  
-- **LinkedIn:** https://linkedin.com/in/yourprofile  
+- **Email:** advaitgadekar3@gmail.com
+- **GitHub:** https://github.com/advaitgadekar  
+- **LinkedIn:** https://www.linkedin.com/in/advait-gadekar-22b617271/ 
 
 ---
 
