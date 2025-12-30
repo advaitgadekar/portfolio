@@ -6,7 +6,7 @@
 ## 👨‍🎓 Education
 **B.Tech in Computer Science**  
 **Shri Ramdeobaba College of Engineering and Management (RCOEM), Nagpur**  
-*Expected Graduation: 2026*
+*Expected Graduation: 2027*
 
 ---
 
@@ -69,4 +69,4 @@
 
 ---
 
-⭐ *This portfolio is hosted using GitHub Pages & Jekyll.*
+
